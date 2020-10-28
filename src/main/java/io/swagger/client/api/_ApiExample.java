@@ -8,7 +8,7 @@ public class _ApiExample {
 
         ApiResponse ar;
         _Api apiInstance = new _Api();
-        String ticketID = "6040"; // String | номер тикета
+        String ticketID = "13222"; // String | номер тикета
         String userLogin = "d.parkhimovich@netrika.ru"; // String | логин
         String password = "router1966"; // String | пароль
         String queue = "Санкт-Петербург::BI_СПб"; // String | пароль

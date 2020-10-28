@@ -27,7 +27,7 @@ import java.io.IOException;
 /**
  * UpdateTicketTicket
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2020-03-20T07:29:17.387Z")
+//@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2020-03-20T07:29:17.387Z")
 public class UpdateTicketTicket {
   @SerializedName("Owner")
   private String owner = null;
